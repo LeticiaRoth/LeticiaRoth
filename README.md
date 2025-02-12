@@ -46,4 +46,5 @@ No meu útimo ano realizei o meu Trabalho de Conclusão de Curso (TCC), chamado 
  + Meu escritor brasileiro favorito é José de Alencar;
  + Livro favorito: Dom Casmurro (contém muitas reviravoltas);
  + Adoro crianças;
+
   ![FIM](https://i.gifer.com/XGH5.gif ) 
