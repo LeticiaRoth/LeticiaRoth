@@ -40,7 +40,7 @@ No meu útimo ano realizei o meu Trabalho de Conclusão de Curso (TCC), chamado 
  ***
  
  ### Curiosidades
- + Sou irmã mais velha e a única menina da casA;
+ + Sou irmã mais velha e a única menina da casa;
  + Amo reassistir os meus filmes favoritos (até aqueles mais ruinzinhos!)
  + Já tive um pastor alemão, com nome Luna;
  + Meu escritor brasileiro favorito é José de Alencar;
