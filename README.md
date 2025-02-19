@@ -1,7 +1,7 @@
 # Perfil pessoal
 
 ### Letícia Alves Roth 
-Meu nome é Letícia Alves Roth, tenho 17 anos (14/02/2007) e atualmente moro em Hortolândia, São Paulo e trabalho na Bosch
+Meu nome é Letícia Alves Roth, tenho 18 anos (14/02/2007) e atualmente moro em Hortolândia, São Paulo e trabalho na Bosch
 Campinas no setor da CaP/ETS, como **aprendiz de Soluções Digitais** .
 
 ***
