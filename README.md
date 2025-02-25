@@ -28,6 +28,7 @@ No meu útimo ano realizei o meu Trabalho de Conclusão de Curso (TCC), chamado 
 + C;
 + JavaScript;
 + React Native;
++ Python;
 
 ***
  ### Contatos 📲
