@@ -16,8 +16,8 @@ No meu útimo ano realizei o meu Trabalho de Conclusão de Curso (TCC), chamado 
  Algumas das minhas conquistas pessoais e profissionais dos úlimos anos:
  + Concluí meu ensino médio/técnico na ETEC de Hortolândia;
  + Juntamente a minha equipe conquistei o primeiro lugar na categoria da Tecnologia da Informação, na feira da BENTOTEC15°;
- + Realizei um intercâmbio, com duração de um mês, para Inglaterra onde tive a oportunidade de apronfundar meu inglês;
- + Passei pelo processo seletivo da Bosch, para área de aprendiz de soluções digitais;
+ + Realizei um intercâmbio, com duração de um mês, para Inglaterra onde tive a oportunidade de aprimorar meu inglês;
+ + Passei pelo processo seletivo da Bosch Brasil, para área de aprendiz de soluções digitais;
  + Iniciei mais um curso técnico em Desenvolvimento de Sistemas, no SENAI Roberto Mange;
  
 ***
