@@ -41,8 +41,8 @@ No meu útimo ano realizei o meu Trabalho de Conclusão de Curso (TCC), chamado 
  ***
  
  ### Curiosidades
- + Sou irmã mais velha e a única menina da casa;
- + Amo reassistir os meus filmes favoritos (até aqueles mais ruinzinhos!)
+ + Sou irmã mais velha e única menina da casa;
+ + Amo reassistir os meus filmes favoritos (até os mais ruinzinhos!)
  + Já tive um pastor alemão, com nome Luna;
  + Meu escritor brasileiro favorito é José de Alencar;
  + Livro favorito: Dom Casmurro (contém muitas reviravoltas);
