@@ -35,7 +35,7 @@ No meu útimo ano realizei o meu Trabalho de Conclusão de Curso (TCC), chamado 
  Instagram: [@leticia.roth_](https://www.instagram.com/leticia.roth_?igsh=MXBrMXhtc2wyajRwNg==)
  E-mail: leticiaroth1@gmail.com
  Linkedin: [Letícia Roth](https://www.linkedin.com/in/let%C3%ADcia-alves-roth-710242327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
- GitHub: [Roth](https://github.com/Rothizinha/Roth)
+ GitHub: [Roth](https://github.com/LeticiaRoth)
  
  
  ***
