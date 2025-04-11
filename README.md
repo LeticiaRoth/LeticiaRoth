@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=89CD24&width=435&lines=Bem+Vindo+ao+meu+perfil+profissional)](https://git.io/typing-svg)
+##Perfil Profissional
 
 ### Letícia Alves Roth 
 Meu nome é Letícia Alves Roth, tenho 18 anos (14/02/2007) e atualmente moro em Hortolândia, São Paulo e trabalho na Bosch
