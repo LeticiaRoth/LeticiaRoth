@@ -13,7 +13,6 @@ No meu útimo ano realizei o meu Trabalho de Conclusão de Curso (TCC), chamado 
 <p align="left">
     <a href="https://www.linkedin.com/in/let%C3%ADcia-alves-roth-710242327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img 
-            aling="center"
             alt="Linkedin" 
             title="Me siga no Linkedin" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -21,7 +20,6 @@ No meu útimo ano realizei o meu Trabalho de Conclusão de Curso (TCC), chamado 
     </a> 
     <a href="https://www.instagram.com/leticia.roth_?igsh=MXBrMXhtc2wyajRwNg==">
         <img 
-            aling="center"
             alt="Instagram"
             title="Me siga no Instagram" 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
@@ -29,7 +27,6 @@ No meu útimo ano realizei o meu Trabalho de Conclusão de Curso (TCC), chamado 
     </a>
     <a href=https://github.com/LeticiaRoth>
         <img 
-            aling="center"
             alt="GitHub" 
             title="Me siga no GitHub" 
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
@@ -37,7 +34,6 @@ No meu útimo ano realizei o meu Trabalho de Conclusão de Curso (TCC), chamado 
     </a>
     <a href=https://mail.google.com/mail/u/0/#inbox?compose=new>
         <img 
-            aling="center"
             alt="Email" 
             title="Entre em contato" 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
