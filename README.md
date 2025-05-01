@@ -34,6 +34,7 @@ No meu útimo ano realizei o meu Trabalho de Conclusão de Curso (TCC), chamado 
     </a>
     <a href=https://mail.google.com/mail/u/0/#inbox?compose=new>
         <img 
+            aling="center"
             alt="Email" 
             title="Entre em contato" 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
