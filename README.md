@@ -15,7 +15,7 @@ No meu útimo ano realizei o meu Trabalho de Conclusão de Curso (TCC), chamado 
         <img 
             alt="Linkedin" 
             title="Me siga no Linkedin" 
-            src="    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a> 
     <a href="https://www.instagram.com/leticia.roth_?igsh=MXBrMXhtc2wyajRwNg==">
