@@ -131,7 +131,7 @@ No meu útimo ano realizei o meu Trabalho de Conclusão de Curso (TCC), chamado 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LeticiaRoth&show_icons=true&theme=tokyonight&layout&include_all_commits=true&locale=pt-br" 
   />
@@ -139,7 +139,7 @@ No meu útimo ano realizei o meu Trabalho de Conclusão de Curso (TCC), chamado 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaRoth&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
