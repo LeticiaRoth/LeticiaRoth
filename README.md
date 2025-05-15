@@ -45,6 +45,7 @@ Os dados eram coletados por um ESP32-CAM, que os enviava para um site, gerando a
     <img title="Java" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> &nbsp;
     <img title="MySQL" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> &nbsp;
     <img title="C" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> &nbsp;
+    <img title="Figma" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />&nbsp;
 </p>
 
 ---
