@@ -55,7 +55,7 @@ Os dados eram coletados por um ESP32-CAM, que os enviava para um site, gerando a
 <p align="left">
     <img 
         height="180em" 
-        src="https://github-readme-stats.vercel.app/api?username=LeticiaRoth&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&bg_color=00000000" 
+        src="https://github-readme-stats.vercel.app/api?username=LeticiaRoth&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&theme=radical" 
     />
 </p>
 
