@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Letícia Alves Roth
 
-<p align='center'>**`Aprendiz de Soluções Digitais`**</p>
+**`Aprendiz de Soluções Digitais`**
 
 Meu nome é Letícia Alves Roth, tenho 18 anos, atualmente moro em Hortolândia, São Paulo, e trabalho na Bosch Campinas no setor da CaP/ETS como **aprendiz de Soluções Digitais**, onde estou aprofundando meus conhecimentos na área de tecnologia e desenvolvimento de sistemas.
 
